@@ -1,2 +1,3 @@
 # ansible_tutorial
-to follow along
+
+Repository to follow along.
