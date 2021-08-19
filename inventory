@@ -1,2 +1,5 @@
+[web_servers]
 ansible@10.0.0.223
+
+[db_servers]
 admin@10.0.0.35
